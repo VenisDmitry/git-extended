@@ -1,19 +1,14 @@
 {
-  "name": "git-extended",
-  "version": "1.0.0",
-  "description": "Git repo for educational purposes",
-  "repository": "git@github.com:VenisDmitry/git-extended.git",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Venis Dmitry <greboverde@gmail.com>",
-  "license": "CC-BY-4.0",
-  "packageManager": "pnpm@10.27.0"
-}
-"config": {
+    "name": "git-extended",
+    "version": "1.0.0",
+    "description": "Git repo for educational purposes",
+    "main": "index.js",
+    "repository": "git@github.com:VenisDmitry/git-extended.git",
+    "author": "Venis Dmitry<greboverde@gmail.com>",
+    "license": "CC-BY-4.0",
+    "config": {
         "commitizen": {
             "path": "cz-conventional-changelog"
         }
+    }
 }
